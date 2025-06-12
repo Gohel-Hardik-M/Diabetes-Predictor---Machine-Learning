@@ -8,6 +8,6 @@ Used Technologies / Libraries / Tools :
                                                               - Random Forest Classifier (For Machine Learning Model)
                                                               - Pandas (For Data cleaning , Data visulization)
                                                               - Numpy 
-                                                              - HTML / CSS (For Stylish Interface)
+                                                              - HTML / CSS (For Stylish Interface) 
                                                               
                   
