@@ -44,3 +44,16 @@ pip install -r requirements.txt
 
 # Run the notebook
 jupyter notebook notebook.ipynb
+
+
+---
+## 📂 Repository Structure :
+
+📂 diabetes-prediction/
+ ┣ 📁 data/
+ ┃ ┗ 📄 diabetes.csv
+ ┣ 📓 notebook.ipynb
+ ┣ 📄 requirements.txt
+ ┗ 📄 README.md
+
+
