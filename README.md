@@ -50,7 +50,7 @@ python app.py
 ---
 
 ## 📂 Repository Structure :
-
+```
 📂 Diabetes Prediction/
  ┣ 📁 data/
  ┃ ┗ 📄 diabetes.csv
@@ -61,5 +61,6 @@ python app.py
  ┣ 📓 notebook.ipynb
  ┣ 📄 requirements.txt
  ┗ 📄 README.md
+```
 
 
