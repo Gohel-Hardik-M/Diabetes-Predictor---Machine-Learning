@@ -20,9 +20,23 @@ The dataset **`diabetes.csv`** is included in the **`data/`** folder, so no exte
                           
 
 ---
-### ⚙️ Training Model :
 
-##  Steps To Train the model
+
+## ⚙️ How to Use
+
+### Option 1: Run the Web App (Recommended)
+You can directly use the pre‑trained model by running the Flask app:
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+python app.py
+```
+
+
+### Option 2:  Train the model by yourself using **`notebook.ipynb`** (if you                    wish to learn.) :
  
 1. **Open** **`notebook.ipynb`** file.
 2. **Data Loading** – Reads `data/diabetes.csv`.
@@ -32,26 +46,18 @@ The dataset **`diabetes.csv`** is included in the **`data/`** folder, so no exte
 
 ---
 
-## 🚀 How to Run
-```bash
-# Clone the repository
 
-# Navigate into the folder
-cd diabetes-prediction
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the notebook
-jupyter notebook notebook.ipynb
-
-```
+---
 
 ## 📂 Repository Structure :
 
-📂 diabetes-prediction/
+📂 Diabetes Prediction/
  ┣ 📁 data/
  ┃ ┗ 📄 diabetes.csv
+ ┣ 📁 templates/
+ ┃ ┗ 📄 index.html
+ ┣ 📓 app.py
+ ┣ 🧠 model.pkl   
  ┣ 📓 notebook.ipynb
  ┣ 📄 requirements.txt
  ┗ 📄 README.md
