@@ -5,7 +5,8 @@ This repository contains a machine learning project that predicts the likelihood
 The dataset **`diabetes.csv`** is included in the **`data/`** folder, so no external download is required.
 
 ---
-### Screenshots :
+## 📸 Screenshots
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7d708a4e-b7d1-46b7-9b46-9c959757346f" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3f67a702-b99f-4aac-9ba9-fcbe02e701f9" />
 
